@@ -18,6 +18,6 @@ Python • JavaScript • Graphes • Optimisation • Data
 (liste avec liens)
 -->
 ## Contact
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votreprofil)
 [LinkedIn  ](https://www.linkedin.com/in/malo-rihet/)
 
