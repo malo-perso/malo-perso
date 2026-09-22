@@ -1,6 +1,6 @@
 # Malo Rihet
 
-Étudiant ingénieur en informatique – EPITA  
+Étudiant ingénieur en informatique – ESIEA  
 <!--Intéressé par : optimisation, data, IA, -->
 <!--
 ## Projets principaux
