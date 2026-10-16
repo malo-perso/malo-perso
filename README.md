@@ -1,4 +1,4 @@
-![Malo Rihet — DevOps et Cloud, étudiant ingénieur à l’ESIEA, Île-de-France](banner.svg)
+<picture><img src="banner.svg" alt="Malo Rihet — DevOps et Cloud, étudiant ingénieur à l’ESIEA, Île-de-France"></picture>
 
 Du développement d’applications aux environnements Linux et cloud, j’aime comprendre comment les systèmes fonctionnent ensemble.
 
