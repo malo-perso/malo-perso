@@ -6,7 +6,7 @@ Du développement d’applications aux environnements Linux et cloud, j’aime c
 
 ## 🧩 Mon environnement
 
-![Azure · Docker · Linux · Python · Django · Git](technologies.svg)
+<picture><img src="technologies.svg" alt="Azure · Docker · Linux · Python · Django · Git"></picture>
 
 Azure **AZ-900 et AZ-104** : préparation en cours.
 
