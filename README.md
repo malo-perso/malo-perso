@@ -48,7 +48,7 @@ Une application mobile qui associe interface, backend et base de données en gra
 
 `React Native` `NativeWind` `Django` `Neo4j` `Azure` `GitLab`
 
-<sub>Les dépôts de ces deux projets ne sont pas publics sur ce profil. Les dépôts accessibles sont présentés ci-dessous.</sub>
+<sub>Arcadia est en cours de développement ; son dépôt reste privé. CineCanva est destiné à être commercialisé ; son code reste également privé.</sub>
 
 ## Du code à explorer
 
