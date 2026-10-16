@@ -6,7 +6,7 @@
 
 **Cycle ingénieur informatique — ESIEA · 2026–2029**
 
-[Échanger par e-mail](mailto:malo.rihet@gmail.com) · [LinkedIn](https://www.linkedin.com/in/malo-rihet) · [Explorer mes dépôts](https://github.com/malo-perso?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/malo-rihet) · [Explorer mes dépôts](https://github.com/malo-perso?tab=repositories)
 
 </div>
 
@@ -88,6 +88,6 @@ Le cinéma nourrit CineCanva ; les jeux, Arcadia. J’ai aussi participé au **4
 ---
 
 **Vous recrutez un alternant en DevOps ou cloud ?**
-[Contactez-moi](mailto:malo.rihet@gmail.com) ou [retrouvez-moi sur LinkedIn](https://www.linkedin.com/in/malo-rihet).
+[Retrouvez-moi sur LinkedIn](https://www.linkedin.com/in/malo-rihet).
 
-<sub>Yvelines, France · Français natif · Anglais B2 · Espagnol B1</sub>
+<sub>Île-de-France, France · Français natif · Anglais B2 · Espagnol B1</sub>
