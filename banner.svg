@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Malo Rihet — DevOps et Cloud</title>
+<desc id="desc">Développer, déployer, automatiser. Étudiant ingénieur informatique à l’ESIEA. Île-de-France.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.5"><stop stop-color="#101d37"/><stop offset=".6" stop-color="#123d53"/><stop offset="1" stop-color="#115e65"/></linearGradient></defs>
+<rect width="1200" height="310" rx="14" fill="url(#bg)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="52" y="55" font-size="16" letter-spacing="3" fill="#80e8dc">DÉVELOPPER · DÉPLOYER · AUTOMATISER</text>
+<text x="49" y="133" font-size="64" font-weight="700" fill="#f1f6fc">Malo Rihet</text>
+<text x="52" y="183" font-size="30" fill="#a9ede6">DevOps &amp; Cloud</text>
+<text x="52" y="243" font-size="19" fill="#c1d7e6">Étudiant ingénieur informatique · ESIEA</text>
+<text x="52" y="273" font-size="18" fill="#c1d7e6">Île-de-France</text>
+<text x="970" y="151" font-family="Consolas,monospace" font-size="100" fill="#5fe0cd" opacity=".24">&lt;/&gt;</text>
+</g></svg>
